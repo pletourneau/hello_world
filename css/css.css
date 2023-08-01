@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+ul {
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    font-weight: 400;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    line-height: 12pt;
+}
